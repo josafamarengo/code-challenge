@@ -1,0 +1,1 @@
+public class UserSolution{public static void main(String[] args){var a = 2; var b = 4; var soma = a + b; System.out.print(soma);}}
